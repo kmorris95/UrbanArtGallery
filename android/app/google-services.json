@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "890152334124",
+    "firebase_url": "https://assist-92e1d.firebaseio.com",
+    "project_id": "assist-92e1d",
+    "storage_bucket": "assist-92e1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890152334124:android:a028c4e72c6e7f3019f289",
+        "android_client_info": {
+          "package_name": "com.urbanartgallery.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890152334124-d9uud5611dmak315tsa7bfklda6aum99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmqoUjilQ2vt1mkacQ4HCCgI7HMajmadY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890152334124-d9uud5611dmak315tsa7bfklda6aum99.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890152334124-2e1cf2tgeuu900d2ua6ogck1aqih222v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kapsule.assist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
